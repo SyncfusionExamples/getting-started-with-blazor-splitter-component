@@ -55,7 +55,7 @@ This is a commercial product and requires a paid license for possession or use. 
 
 [Documentation](https://blazor.syncfusion.com/documentation/splitter/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-splitter-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/splitter/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-splitter-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/getting-started-with-blazor-splitter-component?utm_source=github&utm_medium=listing&utm_campaign=blazor-splitter-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-splitter-github-samples)
 
