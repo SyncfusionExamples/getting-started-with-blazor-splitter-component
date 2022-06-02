@@ -69,7 +69,7 @@ This is a commercial product and requires a paid license for possession or use. 
 
 
 ## About Syncfusion Blazor Components
-The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Splitter, we provide popular Blazor Components such as DataGrid,Charts, Scheduler, Diagram and Word Processor.
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Splitter, we provide popular Blazor Components such as DataGrid,Charts, Scheduler, Diagram and Word Processor.
 
 
 ### About Syncfusion
