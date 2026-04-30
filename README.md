@@ -1,27 +1,49 @@
 # Getting Started with the Blazor Splitter Component
 
-The [Blazor Splitter](https://www.syncfusion.com/blazor-components/blazor-splitter?utm_source=github&utm_medium=listing&utm_campaign=blazor-splitter-github-samples) is a layout user interface (UI) that provides resizable, expandable, collapsible, and nestable panes.A quick-start project that helps you get up and running with the Syncfusion Splitter component in a Blazor WebAssembly application. This project contains the code to resize, collapse, and expand panes. It also contains code to render nested panes.
+**Repository Description**  
+This repository contains a quick‑start Blazor WebAssembly sample that demonstrates how to integrate and configure the Syncfusion Blazor Splitter component to create flexible, resizable layouts.
+
+The Blazor Splitter is a layout user interface (UI) component that provides resizable, expandable, collapsible, and nestable panes. This project helps developers get started with the Syncfusion Splitter component in a Blazor WebAssembly application. It includes sample code to resize, collapse, and expand panes, as well as render nested split panes.
+
+## Project Overview
+The purpose of this project is to help developers understand the basic usage and configuration of the Syncfusion Blazor Splitter component. It demonstrates how to structure page layouts using multiple panes that users can resize or collapse based on their requirements.
+
+## Features
+- Resizable, expandable, and collapsible panes  
+- Support for nested split panes  
+- Flexible layout management for complex UI scenarios  
+- User‑controlled pane sizing  
 
 ## Prerequisites
+- Visual Studio 2022  
 
-* Visual Studio 2022
+## Installation and Running the Project
+1. Check out or clone this project to a local directory.
+2. Open the solution file using Visual Studio 2022.
+3. Restore NuGet packages by rebuilding the solution.
+4. Build and run the project to view the Blazor Splitter component in action.
 
-## How to run the project
+## Usage
+Run the application and interact with the splitter panes to resize, collapse, and expand sections dynamically. Nested panes can also be explored to understand complex layout arrangements.
 
-* Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2022.
-* Restore the NuGet packages by rebuilding the solution.
-* Run the project.
+## Troubleshooting
+- Ensure the correct .NET SDK and Visual Studio version are installed.
+- Restore NuGet packages if build errors occur.
+- Rebuild the solution if layout changes are not reflected.
+- Check browser developer tools for runtime or rendering errors.
+
+## Support
+For detailed API references, configuration options, and advanced usage examples, refer to the Syncfusion Blazor documentation and community resources listed above.
 
 ## Features and Benefits
 
-## Sizing to content
+### Sizing to content
 
 The size of a pane can be specified by users in either pixels or a percentage, with a minimum and maximum range of values, to allow for the sizing of its child component or content.
-## State management
+### State management
 
 The Splitter state can be saved and loaded thanks to state management. As opposed to having its properties declared declaratively, the Splitter will render based on a state that the user provides.
-## Resizable panes
+### Resizable panes
 
 The Blazor Splitter component comes with built-in support for expanding or contracting panes. Individual windows can be resized by users with validation for minimum and maximum sizes.
 
@@ -62,4 +84,3 @@ Today, we provide 1700+ components and frameworks for web ([Blazor](https://www.
 <p align="center">
 <a href="mailto:sales@syncfusion.com?Subject=Syncfusion Blazor Splitter - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=blazor-splitter-github-samples">www.syncfusion.com</a>| Toll Free: 1-888-9 DOTNET <br>
 </p>
-
