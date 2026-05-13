@@ -1,6 +1,5 @@
 # Getting Started with the Blazor Splitter Component
 
-**Repository Description**  
 This repository contains a quick‑start Blazor WebAssembly sample that demonstrates how to integrate and configure the Syncfusion Blazor Splitter component to create flexible, resizable layouts.
 
 The Blazor Splitter is a layout user interface (UI) component that provides resizable, expandable, collapsible, and nestable panes. This project helps developers get started with the Syncfusion Splitter component in a Blazor WebAssembly application. It includes sample code to resize, collapse, and expand panes, as well as render nested split panes.
